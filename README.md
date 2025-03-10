@@ -1,0 +1,1 @@
+Ko'plab funksiyalarga ega bo'lgan online magazin.
